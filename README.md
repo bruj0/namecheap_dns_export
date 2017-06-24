@@ -4,6 +4,8 @@ Execute as:
 
 ```
 $ php namecheap_exportzone.php domain.ext user_name password
+
+
 $ORIGIN domain.ext.
 $TTL 3600
 
